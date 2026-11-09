@@ -1,0 +1,4 @@
+C:/Users/User/OneDrive/Документы/proekt_cmake/build/CMakeFiles/lib.dir
+C:/Users/User/OneDrive/Документы/proekt_cmake/build/CMakeFiles/app.dir
+C:/Users/User/OneDrive/Документы/proekt_cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Документы/proekt_cmake/build/CMakeFiles/rebuild_cache.dir
